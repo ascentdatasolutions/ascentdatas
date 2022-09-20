@@ -8,11 +8,10 @@ en:
       content: **Ascent Data Solutions** enables your data to act and produce outcomes.
 Data is constantly changing. We make it possible for your data and operations teams to set up data expectations and automate processes based on its status.
 
-We examine three contemporary data stack examples. One is more conventional and focused on business intelligence. Another one is poor and typical for start-ups at the beginning of their lifecycle. The third one, meanwhile, is more sophisticated and tightly integrated with organizational operations and decision-making.
     - icon: fa-compass
       title: "We are on your side."
-      content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-        libero, perspiciatis eos provident laborum eum dignissimos.
+      content: We examine three contemporary data stack examples. One is more conventional and focused on business intelligence. Another one is poor and typical for start-ups at the beginning of their lifecycle. The third one, meanwhile, is more sophisticated and tightly integrated with organizational operations and decision-making.
+
     - icon: fa-leaf
       title: We care.
       content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
